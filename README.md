@@ -1,4 +1,3 @@
-# project
-This is my Git Repository
-<br>
-By Ashnoor singh
+# This is my python file 
+It has basic python programmes which uses python from basic till some advance concepts 
+
